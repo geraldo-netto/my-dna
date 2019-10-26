@@ -1,5 +1,6 @@
 # my-dna
-My [raw DNA data](geraldo-dna-20190610.csv) for research purpose.
+My [raw Tellme Gen DNA data](geraldo-dna-23andme-20191019.csv) for research purpose.
+My [raw 23andme DNA data](geraldo-dna-tellmegen-20190610.csv) for research purpose.
 Except for my ancestry, all other imagens were took from internet.
 
 ![Ancestry 1](ancestral/ancestral-1a.png)

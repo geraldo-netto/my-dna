@@ -9,13 +9,9 @@ This repository contains raw genomic data and ancestry visualizations for resear
 | **TellmeGen** | [geraldo-dna-tellmegen-20190610.csv](./geraldo-dna-tellmegen-20190610.csv) | 2019-06-10 | Research & Analysis |
 | **23andMe** | [geraldo-dna-23andme-20191019.csv](./geraldo-dna-23andme-20191019.csv) | 2019-10-19 | Research & Analysis |
 
----
-
 ## 🌍 Ancestry & Composition
 
 The following results represent the genetic ancestry breakdown. Each section is collapsed to keep the document clean; click to expand.
-
-> **Note:** The ancestry composition images are personal results; all other contextual imagery is sourced from the internet for reference.
 
 <details>
   <summary><b>View Ancestry Report 1</b></summary>
@@ -41,8 +37,6 @@ The following results represent the genetic ancestry breakdown. Each section is 
   <summary><b>View Ancestry Report 5</b></summary>
   <img src="ancestral/ancestral-4a.png" width="300" alt="Ancestry 4" />
 </details>
-
----
 
 ## 🔬 Usage for Research
 
